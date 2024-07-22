@@ -45,3 +45,4 @@ README.html
 /.quarto/
 
 _freeze/
+.DS_Store
