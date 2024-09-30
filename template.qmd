@@ -31,7 +31,6 @@ filters:
 include-in-header:
 - text: |
     <link rel = "shortcut icon" href = "logos/logo.png" />
->>>>>>> Stashed changes
 ---
 
 ```{r Setup}
